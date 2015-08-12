@@ -1,4 +1,4 @@
 # Code Puzzles
 
 - npm install
-- mocha <puzzle-name>
+- mocha "puzzle-name"
