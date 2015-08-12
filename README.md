@@ -1,1 +1,4 @@
-# code-puzzles
+# Code Puzzles
+
+- npm install
+- mocha <puzzle-name>
